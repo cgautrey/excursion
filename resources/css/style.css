@@ -1,38 +1,28 @@
 body {
-  background-color: Black;
-  font-family: Verdana;
-  text-align: center;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.dl {
+    color: Aquamarine;
+    font-size: 16px;
 }
 
 h1 {
-  font-size: 50px;
-  color: #ffffff;
-  font-weight: normal;
-}
-
-a {
-  color: Aquamarine;
-  font-size: 16px;
-  display: block;
+    font-size: 50px;
 }
 
 h2 {
-  color: #ffffff;
-  font-weight: 300;
-  font-size: 42px;
+    font-size: 42px;
 }
 
 p {
-  color: Gray;
-  font-size: 21px;
+    color: Gray;
+    font-size: 21px;
 }
 
-video, img {
-  display: block;
-  margin: 0 auto;
-}
-
-#copy {
-  color: gray;
-  text-align: right;
+.foot {
+    text-align: right;
 }
