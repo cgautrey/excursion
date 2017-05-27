@@ -22,7 +22,7 @@ h2 {
   font-size: 42px;
 }
 
-h3 {
+p {
   color: Gray;
   font-size: 21px;
 }
@@ -30,4 +30,9 @@ h3 {
 video, img {
   display: block;
   margin: 0 auto;
+}
+
+#copy {
+  color: gray;
+  text-align: right;  
 }
